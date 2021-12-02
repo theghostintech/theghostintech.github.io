@@ -4,6 +4,8 @@
     font-family: sans-serif;
     background: none;
 }
+/* i rememebered from a old project to margin 0 and padding the whole page
+helps, and just kept a habit of doing it*/
 
 p {
     font-size: 1em;
@@ -48,6 +50,7 @@ a {
     padding: 8px;
 }
 
-.logo {
-
-}
+/* 
+just had a total brainfart when it comes to using css,
+i usually use a template like bootstrap to create more cohesive pages,
+eventually I want to relearn css to do so.*/
