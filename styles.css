@@ -7,6 +7,11 @@
 /* i rememebered from a old project to margin 0 and padding the whole page
 helps, and just kept a habit of doing it*/
 
+.container {
+    height: 300px;
+    background-color: black;
+}
+
 p {
     font-size: 1em;
     text-align: center;
