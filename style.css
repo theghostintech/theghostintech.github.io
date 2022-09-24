@@ -1,0 +1,16 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+h1{
+    color: orange;
+}
+
+h2{
+    color: orangered;
+}
+
+div {
+    text-align: center;
+}
